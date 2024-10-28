@@ -1,0 +1,9 @@
+openai
+fpdf
+PyPDF2
+streamlit
+python-dotenv
+reportlab
+Pillow
+pdf2image
+pytesseract
